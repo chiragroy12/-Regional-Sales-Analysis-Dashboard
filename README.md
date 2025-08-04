@@ -4,7 +4,7 @@ This is a complete end-to-end data analytics project focused on uncovering trend
 
 ---
 
-## 🧠 Problem Statement
+##  Problem Statement
 
 Sales performance across U.S. regions is inconsistent, with unclear seasonal patterns, top-performing SKUs, and channel profitability.
 
@@ -37,10 +37,10 @@ Leverage historical data to uncover actionable insights and help stakeholders op
 
 ##  Deliverables
 
-✅ EDA using Python  
-✅ Business insights with charts  
-✅ Power BI dashboard with filters  
-✅ Executive presentation
+1.EDA using Python  
+2.Business insights with charts  
+3.Power BI dashboard with filters  
+4.Executive presentation
 
 ---
 
